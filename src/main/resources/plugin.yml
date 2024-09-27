@@ -1,0 +1,10 @@
+name: DiscordSRV-UnlinkRemoveDiscordRole
+version: '1.0'
+main: tw.origincraft.Discord_URDR.Main
+api-version: '1.21'
+prefix: Discord-URDR
+authors: [ OriginCraft ]
+description: DiscordSRV Unlink Remove Discord Role
+website: https://origincraft.tw
+depend:
+  - DiscordSRV
